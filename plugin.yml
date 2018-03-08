@@ -1,0 +1,18 @@
+name: Aim
+author: Feavy
+version: 1.0
+main: fr.feavy.main.MainPlugin
+description: Améliorer votre aim grâce à ce plugin.
+commands:
+  initialize:
+    usage: /initialize
+    description: Initialize la map.
+  hub:
+    usage: /hub
+    description: Permet de se teleporter au hub.
+  startexercice:
+    usage: /startexercice
+    description: Permet de demarrer un exercice.
+  speed:
+    usage: /speed
+    description: Vous donne un effet de vitesse pour les prochains exercices.
